@@ -1,8 +1,7 @@
 Hi!
-Im @LeoWB.
-I like to tinker around with different programming languages from time to time.
-I'm mostly interested in Software Development.
-I can code confidently in Python, but I am learning Unity.
+I'm @LeoWB.
+I like to mess around with many different languages.
+I mainly code in python, but I'm also capable in C# and ReactJS (+ html & css).
 You can reach me at lfc.westerburgburr@gmail.com
 <!---
 LeoWB/LeoWB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
